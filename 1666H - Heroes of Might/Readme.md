@@ -6,4 +6,5 @@ The code seems to work, but it is slow on some cases. I don't think this is due 
 formula that avoids some cycles
 
 To do list:
-Understand best solutions in C++
+1)Check memory usage of my script
+2)Understand best solutions in C++
